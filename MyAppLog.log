@@ -1,0 +1,5 @@
+DEBUG LoggerDemo - This is a debug method
+INFO  LoggerDemo - This is a information about AUT
+ERROR LoggerDemo - this is error message
+FATAL LoggerDemo - this is a fatal error occured while executing
+WARN  LoggerDemo - this is a warning message
