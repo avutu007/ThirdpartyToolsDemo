@@ -20,6 +20,8 @@ public class ComposeEmail {
     public static WebDriverWait wait = null;
 	@BeforeMethod
 	
+	//added comment to push to github
+	
 	public void precondition()
 	{
 		 System.setProperty("Chrome_key", "Chrome_Value");
